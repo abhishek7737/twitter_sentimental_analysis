@@ -1,4 +1,4 @@
-# Made with 💖 by Ankit Pandey (https://www.github.com/ankit2web)
+# Made with 💖 by Ankit Pandey (https://github.com/abhishek7737/twitter_sentimental_analysis)
 #
 # This is the user-interface definition of a Shiny web application. You can
 # run the application by clicking 'Run App' above.
